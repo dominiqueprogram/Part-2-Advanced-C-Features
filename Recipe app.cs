@@ -360,6 +360,7 @@ namespace RecipeApp
 				Console.WriteLine("Invalid input. Please enter a valid recipe number.");
 				Console.WriteLine();
 			}
+					
 
 			Recipe selectedRecipe = sortedRecipes.ElementAt(selectedRecipeIndex - 1);
 
