@@ -132,9 +132,14 @@ namespace RecipeApp
                         Console.WriteLine("Thank you for using Recipe App!");
                         Environment.Exit(0);
                         break;
-                }
+              
+		}
+		    
             }
+		
+		
         }
+	    
 
         static void AddRecipe()
 		{
