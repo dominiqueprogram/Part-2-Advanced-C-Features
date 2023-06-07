@@ -261,6 +261,7 @@ namespace RecipeApp
 				Console.WriteLine($"Recipe {recipeIndex} added successfully!");
 
 				Console.WriteLine();
+		
 			}
 		}
 
