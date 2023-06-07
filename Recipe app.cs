@@ -15,6 +15,7 @@ namespace RecipeApp
         public string FoodGroup { get; set; }
     }
 
+	
     public class Step
     {
         public string Description { get; set; }
