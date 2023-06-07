@@ -12,7 +12,7 @@ If the total calories exceed 300, a warning message is shown.
 The Recipe App provides a user-friendly interface to interact with recipes, 
 making it convenient for users to manage their cooking endeavors.
 
-2. The link to my GitHub repository: https://github.com/dominiqueprogram/Part-2-Advanced-C-Features 
+2. The link to my GitHub repository: 
 
 3. A brief description (100 to 200 words) of what I changed based on the lecturer’s
 feedback.
